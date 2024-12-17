@@ -16,4 +16,4 @@ Statistical modeling to study online polarization and radicalization trends.
 
 Beyond research, I have experience as a teaching assistant and research mentor. I have helped students develop qualitative and quantitative skills and ethical perspectives for analyzing complex societal issues. I am committed to bridging the gap between rigorous data science and public policy solutions. 
 
-You can download my CV here. 
+You can download my CV here. file:///Users/chloemorgado/Downloads/December%202024%20CV%20Chloe%20Morgado%20.pdf
