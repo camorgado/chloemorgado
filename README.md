@@ -4,7 +4,7 @@ cmorgado@umass.edu | chloemorgado01@gmail.com
 ## About Me
 Hello, and welcome to my page! My name is Chloe Morgado. I am a graduate student pursuing a Master's in Data Analytics and Computational Social Science and a Master's in Public Policy Administration. With a strong foundation in Political Science and years of experience as a research assistant, I am passionate about applying data-driven approaches to explore social and political dynamics in the digital age. 
 
-My research primarily focuses on understanding the spread and impact of political extremism in online communities, particularly within the Manosphere, a network of platforms where ideas of masculinity, gender, and politics intersect. I am also deeply engaged in questions of data ethics, exploring how machine learning and AI can reinforce biases and the ethical considerations in collecting, analyzing, and interpreting data in sensitive areas like extremism and misinformation. 
+My research primarily focuses on understanding the spread and impact of political extremism in online communities, particularly within the Manosphere, a network of platforms where ideas of masculinity, gender, and politics intersect. I am also deeply engaged in data ethics questions, exploring how machine learning and AI can reinforce biases and the ethical considerations in collecting, analyzing, and interpreting data in sensitive areas like extremism and misinformation. 
 
 Some of my recent work examines: 
 
